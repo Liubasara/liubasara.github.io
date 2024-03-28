@@ -1,0 +1,1 @@
+import{B as e}from"./vendor.99bea0c6.js";const o=(e,o)=>{const n=encodeURIComponent(e)||void 0;o.push({name:"BlogCate",query:{cate:n}})},n=(o,n)=>!!~e((()=>{var e;return decodeURIComponent((null==(e=n.query)?void 0:e.cate)||"")})).value.indexOf(o);export{n as i,o as n};
